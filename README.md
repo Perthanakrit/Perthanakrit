@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## My Contact
+- FB: Per Thanakrit
+- E-mail: aupper094@gmail.com
 <!--
 **Perthanakrit/Perthanakrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hello
