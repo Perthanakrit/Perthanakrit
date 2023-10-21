@@ -1,9 +1,6 @@
 ### Hi there 👋
 #### My name's Per
-### My Contact
-- FB: Per Thanakrit
-- E-mail: aupper094@gmail.com
-- IG: https://www.instagram.com/t4kani1_/
+
 <!--
 **Perthanakrit/Perthanakrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hello
@@ -12,3 +9,5 @@
 - 🌱 I’m currently learning about software development.
 
 -->
+# Tech Stack
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=5" alt="Tech Stack" /> 
