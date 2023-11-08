@@ -1,15 +1,10 @@
-### Hi there 👋
-#### My name's Per
+## Hi there 👋
 
-<!--
-**Perthanakrit/Perthanakrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hello
-# My name is Per.
+### My name is Per.
 - 👨🏻‍💻 I am a Computer science student at Kasetsart University.
 - 🌱 I’m currently learning about software development.
 
--->
-# Tech Stack
+### Tech Stack
 <a href="" title="C#"><img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt="C#" width="50px" height="50px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="50px" height="50px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="50px" height="50px"></a>
