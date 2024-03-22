@@ -4,6 +4,8 @@
 - 👨🏻‍💻 I am a Computer science student at Kasetsart University.
 - 🌱 I’m currently learning about software development.
 
+<h5 style="color:red;">*Now: Focus on Back-End development.<h5/>
+
 ### </>
 <a href="" title="C#"><img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt="C#" width="50px" height="50px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="50px" height="50px"></a>
