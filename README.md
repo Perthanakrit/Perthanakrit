@@ -4,13 +4,12 @@
 - 🌱 I’m currently learning **everything I can about software engineering .**
 
 <br />
-<br />
-<br />
 
 <a href="https://github.com/Perthanakrit">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Perthanakrit&theme=transparent" />
+  <img height=200 width=auto align="left" src="https://github-readme-stats.vercel.app/api?username=Perthanakrit&theme=transparent" />
+  <img height=200 width=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perthanakrit&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&hide=ipynb"/>
 </a>
-
+ 
 <br />
-
-<a href="https://discord.gg/rIPpeR#6709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rIPpeR#6709" height="30" width="40" /></a>
+<br />
+Another my Github account: [PerTrakanjan](https://github.com/PerTrakanjan)
