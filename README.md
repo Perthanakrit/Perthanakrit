@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student</h3>
 
 - 🌱 I’m currently learning **everything I can about software engineering .**
-
+Another my Github account: [PerTrakanjan](https://github.com/PerTrakanjan)
 <br />
 
 <a href="https://github.com/Perthanakrit">
@@ -12,4 +12,5 @@
  
 <br />
 <br />
+
 Another my Github account: [PerTrakanjan](https://github.com/PerTrakanjan)
