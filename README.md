@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Per</h1>
 <h3 align="center">Computer Science Student</h3>
 
-- 🌱 I’m currently learning **everything I can about software engineering .**
+- 🌱 I’m currently learning **everything I can about software engineering & DevOps .**
 Another my Github account: [PerTrakanjan](https://github.com/PerTrakanjan)
 <br />
 
